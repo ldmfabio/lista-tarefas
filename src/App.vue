@@ -31,7 +31,7 @@ export default {
   name: "App",
   data() {
     return {
-      titulo: "Minha lista de tarefas",
+      titulo: "Pendências",
       novaTarefa: "",
       tarefas: [
         { titulo: "Estudar", checked: false },
